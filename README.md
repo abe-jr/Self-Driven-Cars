@@ -8,7 +8,7 @@ The idea is to use an "artificial selection" to evolve the weights of various ne
 
 The simulator was built from scratch (without engines) using the **Programming Interface Gaming (PIG)** graphics library, which in turn is based on the traditional **Simple DirectMedia Layer (SDL)**.
 
-# The Artificial Neural Network used was a Perceptron Multilayer with 3 layers!
+The Artificial Neural Network used was a Perceptron Multilayer with 3 layers!
 
    - Input layer with 18 sensors + 1 bias, totaling 19 neurons
    - Hidden layer with 6 neurons + 1 bias, totaling 7 neurons
